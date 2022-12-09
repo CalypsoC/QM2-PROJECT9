@@ -1,0 +1,53 @@
+STATE,Median Household Income ,Completing college ,Completing High school ,"Follows Federal Standard, Funding Only Cases Involving Life Endangerment, Rape and Incest","Funds All or Most Medically Necessary Abortions, Exceeding Federal Requirements",Abortion strictness,Political  affiliation 2021,Median Age by State,High religiosity index %,"Attendance at religious services
+At least once a week %"
+Alabama,53913,26.2,30.3,Yes,No,7,-29.59438,39.2,77,51
+Alaska,77845,30,28.4,No,Yes,3,-14.62028,34.6,45,30
+Arizona,69056,30.3,23.8,Yes,No,6,-7.58754,37.9,53,34
+Arkansas,52528,23.8,33.9,Yes,No,7,-31.83641,38.3,70,41
+California,84907,34.7,20.4,No,Yes,2,25.45492,36.7,49,31
+Colorado,82254,41.6,21.2,Yes,No,3,6.367356,36.9,47,30
+Connecticut,83771,40,26.3,No,Yes,4,12.13077,41.1,43,28
+Delaware,71091,32.7,31,Yes,No,3,13.7246,41,52,34
+District of Columbia,90088,59.8,16.6,Yes,No,4,68.15865,34.3,53,28
+Florida,63062,30.5,28.2,Yes,No,5,-7.603365,42.2,54,35
+Georgia,66559,32.2,27.5,Yes,No,2,-7.432655,36.9,66,42
+Hawaii,84857,33.6,27.3,No,Yes,4,31.64859,39.4,47,28
+Idaho,66474,28.7,26.7,Yes,No,7,-36.9668,36.6,51,35
+Illinois,72205,35.5,25.6,No,Yes,3,13.44461,38.3,51,34
+Indiana,62743,27.2,33.2,Yes,No,5,-19.98048,37.8,54,37
+Iowa,65600,29.3,30.8,Yes,No,5,-9.679443,38.3,55,36
+Kansas,64124,33.9,25.8,Yes,No,5,-20.68411,36.9,55,37
+Kentucky,55573,25,32.6,Yes,No,7,-27.10645,39,63,39
+Louisiana,52087,24.9,33.3,Yes,No,7,-20.53777,37.2,71,46
+Maine,64767,32.5,31.3,No,Yes,3,4.045471,44.8,34,22
+Maryland,90203,40.9,24.2,No,Yes,3,25.89621,38.8,54,31
+Massachusetts,89645,44.5,23.5,No,Yes,3,32.63558,39.6,33,23
+Michigan,63498,30,28.5,Yes,No,4,-1.645566,39.8,53,33
+Minnesota,77720,36.8,24.2,No,Yes,4,1.930285,38.1,49,34
+Mississippi,48716,22.8,30.1,Yes,No,7,-20.30344,37.7,77,49
+Missouri,61847,29.9,30.5,Yes,No,7,-21.22918,38.7,60,37
+Montana,63249,33.1,28.1,No,Yes,4,-19.98505,40.1,48,31
+Nebraska,66817,32.5,25.7,Yes,No,3,-24.83943,36.6,54,39
+Nevada,66274,25.5,27.9,Yes,No,4,-2.54994,38.2,49,31
+New Hampshire,88465,37.6,27.3,Yes,No,4,0.3410335,43,33,22
+New Jersey,89296,40.7,26.7,No,Yes,3,11.96593,40,55,35
+New Mexico,53992,28.1,26.2,No,Yes,3,7.024009,38.1,57,36
+New York,74314,37.5,25.5,No,Yes,3,19.95745,39,46,29
+North Carolina,61972,32,25.5,Yes,No,5,-4.803924,38.9,65,39
+North Dakota,66519,30.7,26.1,Yes,No,5,-37.24163,35.2,53,33
+Ohio,62262,28.9,32.8,Yes,No,5,-12.35004,39.5,58,38
+Oklahoma,55826,26.1,31.1,Yes,No,7,-37.20762,36.7,66,43
+Oregon,71562,34.4,22.7,No,Yes,1,10.5522,39.5,48,29
+Pennsylvania,68957,32.3,34.2,Yes,No,5,-2.898966,40.9,53,34
+Rhode Island,74008,35,28,Yes,No,4,24.01542,40,49,36
+South Carolina,59318,29,28.9,Yes,No,5,-18.63975,39.7,70,47
+South Dakota,66143,29.3,30.2,Yes,No,7,-32.23668,37.2,59,36
+Tennessee,59695,28.2,31.8,Yes,No,7,-29.41324,38.8,73,51
+Texas,66963,30.7,24.7,Yes,No,7,-11.98431,34.8,64,42
+Utah,79449,34.7,22.8,Yes,No,5,-26.3219,31.1,64,53
+Vermont,72431,39.7,28.3,No,Yes,2,27.54904,42.8,34,21
+Virginia,80963,39.5,23.9,Yes,No,4,4.63189,38.4,61,44
+Washington,84247,36.7,21.8,No,Yes,3,12.43642,37.8,45,30
+West Virginia,51248,21.3,40,Yes,No,7,-35.53008,42.7,69,46
+Wisconsin,67125,30.8,30.3,Yes,No,5,-4.120129,39.6,45,27
+Wyoming,65204,28.2,28.6,Yes,No,4,-49.73126,38,54,38
