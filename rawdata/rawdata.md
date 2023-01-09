@@ -1,4 +1,4 @@
-#This is a collection of all raw data 
+This is a collection of all raw data 
 List of variables: 
 income: median household income 
 education: completing college and high school 
